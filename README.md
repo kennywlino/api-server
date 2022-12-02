@@ -13,7 +13,7 @@ In addition to these functionalities, we've added a Collection Interface to take
 ### Links and Resources
 
 - [ci/cd](https://github.com/kennywlino/api-server/actions/)
-- [back-end server (production)]()
+- [back-end server (production)](https://api-server-ar7n.onrender.com/)
 - [Main PR from dev](https://github.com/kennywlino/api-server/pull/1)
 
 ### Setup
